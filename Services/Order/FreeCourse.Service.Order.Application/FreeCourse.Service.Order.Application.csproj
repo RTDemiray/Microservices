@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Shared\FreeCourse.Shared\FreeCourse.Shared.csproj" />
+      <ProjectReference Include="..\FreeCourse.Service.Order.Domain\FreeCourse.Service.Order.Domain.csproj" />
+      <ProjectReference Include="..\FreeCourse.Service.Order.Infrastructure\FreeCourse.Service.Order.Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Mapster" Version="7.2.0" />
+      <PackageReference Include="MassTransit.AspNetCore" Version="7.2.0-develop.3373" />
+      <PackageReference Include="MassTransit.RabbitMQ" Version="7.2.0-develop.3373" />
+    </ItemGroup>
+
+</Project>

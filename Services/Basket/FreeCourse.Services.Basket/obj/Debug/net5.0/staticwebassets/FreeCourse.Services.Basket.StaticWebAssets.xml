@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/FreeCourse.IdentityServer" Path="D:\Microservices\IdentityServer\FreeCourse.IdentityServer\wwwroot\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Demiray\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.5\staticwebassets\V4\" />
+</StaticWebAssets>

@@ -1,0 +1,15 @@
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\FreeCourse.Service.Order.Domain.deps.json
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\FreeCourse.Service.Order.Domain.dll
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\ref\FreeCourse.Service.Order.Domain.dll
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\FreeCourse.Service.Order.Domain.pdb
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.csprojAssemblyReference.cache
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.AssemblyInfoInputs.cache
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.AssemblyInfo.cs
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.csproj.CoreCompileInputs.cache
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.dll
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\ref\FreeCourse.Service.Order.Domain.dll
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.pdb
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\FreeCourse.Service.Order.Domain.Core.dll
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\bin\Debug\net5.0\FreeCourse.Service.Order.Domain.Core.pdb
+D:\Microservices\Services\Order\FreeCourse.Service.Order.Domain\obj\Debug\net5.0\FreeCourse.Service.Order.Domain.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\Microservices\Shared\FreeCousre.Shared\bin\Debug\netcoreapp3.1\FreeCousre.Shared.deps.json
+D:\Microservices\Shared\FreeCousre.Shared\bin\Debug\netcoreapp3.1\FreeCousre.Shared.dll
+D:\Microservices\Shared\FreeCousre.Shared\bin\Debug\netcoreapp3.1\FreeCousre.Shared.pdb
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.csprojAssemblyReference.cache
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.AssemblyInfoInputs.cache
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.AssemblyInfo.cs
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.csproj.CoreCompileInputs.cache
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.dll
+D:\Microservices\Shared\FreeCousre.Shared\obj\Debug\netcoreapp3.1\FreeCousre.Shared.pdb
